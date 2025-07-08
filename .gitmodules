@@ -1,0 +1,6 @@
+[submodule "edit-man-api"]
+	path = edit-man-api
+	url = https://github.com/manoarazakamiadana/edit-man-api
+[submodule "edit-man"]
+	path = edit-man
+	url = https://github.com/manoarazakamiadana/edit-man
