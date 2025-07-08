@@ -11,6 +11,6 @@ services:
     image: edit-man-backend
     build: ./edit-man-api
     volumes:
-      - ./edit-man-api:/app
+      - ./edit-man-api/src:/app
     ports:
       - 8000:8000
